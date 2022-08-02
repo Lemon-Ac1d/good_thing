@@ -1,0 +1,3 @@
+https://smallairport.icu/api/v1/client/subscribe?token=82864d356e731236b1ae47eff23ea786
+
+https://bigairport.icu/api/v1/client/subscribe?token=cc931af4e3d9e6acf8b7b1a007979dfd
